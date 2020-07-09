@@ -1,0 +1,78 @@
+StadiumType,FieldType,Temperature,PlayType,Position,PositionGroup,BodyPart,days_missed
+Outdoor,Natural,80-89,Rush,RB,RB,Knee,4
+Outdoor,Natural,80-89,Pass,TE,TE,Foot,3
+Outdoor,Natural,70-79,Rush,FS,DB,Knee,3
+Outdoor,Natural,40-49,Kickoff,WR,WR,Knee,2
+Outdoor,Natural,70-79,Pass,T,OL,Knee,2
+Indoor,Synthetic,60-69,Pass,FS,DB,Ankle,2
+Outdoor,Synthetic,60-69,Pass,SS,DB,Ankle,4
+Outdoor,Natural,50-59,Pass,CB,DB,Knee,2
+Indoor,Synthetic,70-79,Pass,ILB,LB,Knee,4
+Dome,Natural,70-79,Rush,T,OL,Foot,4
+Outdoor,Natural,60-69,Pass,WR,WR,Ankle,1
+Outdoor,Synthetic,60-69,Punt,ILB,LB,Ankle,2
+Unknown,Synthetic,70-79,Kickoff,WR,WR,Foot,4
+Outdoor,Natural,50-59,Punt Returned,WR,WR,Ankle,2
+Indoor,Synthetic,,Pass,WR,WR,Knee,2
+Partial Outdoor,Synthetic,70-79,Rush,DE,DL,Ankle,4
+Outdoor,Synthetic,40-49,Punt,SS,DB,Knee,4
+Indoor,Synthetic,80-89,Punt,OLB,LB,Knee,4
+Outdoor,Natural,60-69,Pass,FS,DB,Knee,2
+Indoor,Synthetic,60-69,Kickoff,OLB,LB,Knee,1
+Outdoor,Natural,70-79,Pass,SS,DB,Knee,4
+Outdoor,Natural,50-59,Rush,OLB,LB,Ankle,1
+Outdoor,Natural,80-89,Pass,SS,DB,Knee,1
+Outdoor,Synthetic,40-49,Rush,OLB,LB,Ankle,2
+Outdoor,Natural,60-69,Rush,OLB,LB,Ankle,2
+Outdoor,Synthetic,40-49,Rush,OLB,LB,Knee,3
+Unknown,Synthetic,60-69,Punt Returned,WR,WR,Knee,4
+Unknown,Synthetic,70-79,Pass,C,OL,Ankle,1
+Indoor,Synthetic,50-59,Rush,C,OL,Ankle,1
+Retractable Roof,Synthetic,70-79,Pass,WR,WR,Knee,3
+Partial Outdoor,Synthetic,70-79,Rush,CB,DB,Ankle,3
+Outdoor,Natural,80-89,Kickoff,OLB,LB,Knee,4
+Outdoor,Natural,30-39,Punt,OLB,LB,Knee,4
+Outdoor,Natural,60-69,Pass,C,OL,Foot,4
+Indoor,Synthetic,,Pass,CB,DB,Ankle,4
+Retractable Roof,Synthetic,80-89,Kickoff,WR,WR,Ankle,4
+Outdoor,Natural,80-89,Rush,MLB,LB,Ankle,1
+Outdoor,Natural,60-69,Pass,MLB,LB,Ankle,4
+Outdoor,Synthetic,60-69,Rush,DT,DL,Knee,2
+Dome,Synthetic,,Pass,RB,RB,Knee,2
+Outdoor,Natural,60-69,Pass,DE,DL,Knee,2
+Outdoor,Natural,30-39,Pass,DE,DL,Foot,4
+Indoor,Synthetic,,Pass,CB,DB,Ankle,1
+Outdoor,Natural,50-59,Pass,WR,WR,Knee,1
+Indoor,Synthetic,60-69,Pass,WR,WR,Ankle,1
+Outdoor,Synthetic,30-39,Rush,DT,DL,Knee,4
+Outdoor,Synthetic,40-49,Pass,OLB,LB,Ankle,4
+Outdoor,Natural,80-89,Rush,RB,RB,Ankle,4
+Unknown,Synthetic,70-79,Pass,MLB,LB,Ankle,3
+Outdoor,Natural,40-49,Pass,WR,WR,Ankle,2
+Indoor,Synthetic,,Rush,ILB,LB,Knee,1
+Outdoor,Natural,60-69,Rush,OLB,LB,Knee,2
+Outdoor,Natural,60-69,Kickoff,DE,DL,Knee,2
+Outdoor,Natural,80-89,Rush,WR,WR,Ankle,1
+Outdoor,Natural,30-39,Punt,FS,DB,Ankle,1
+Outdoor,Synthetic,60-69,Pass,WR,WR,Ankle,2
+Indoor,Synthetic,,Rush,RB,RB,Knee,4
+Outdoor,Natural,70-79,Rush,C,OL,Ankle,2
+Retractable Roof,Synthetic,50-59,Rush,RB,RB,Ankle,4
+Outdoor,Natural,40-49,Pass,FS,DB,Ankle,2
+Partial Outdoor,Natural,70-79,Punt,OLB,LB,Knee,2
+Outdoor,Synthetic,30-39,Rush,WR,WR,Ankle,1
+Outdoor,Natural,80-89,Punt,OLB,LB,Knee,2
+Outdoor,Natural,70-79,Rush,DE,DL,Ankle,2
+Outdoor,Synthetic,60-69,Pass,SS,DB,Ankle,4
+Outdoor,Synthetic,40-49,Kickoff Returned,TE,TE,Knee,2
+Outdoor,Natural,30-39,Punt,MLB,LB,Knee,2
+Indoor,Synthetic,60-69,Kickoff,WR,WR,Knee,4
+Outdoor,Natural,70-79,Punt,LB,LB,Ankle,1
+Outdoor,Synthetic,50-59,Pass,RB,RB,Knee,2
+Outdoor,Synthetic,50-59,Punt Not Returned,CB,DB,Foot,3
+Outdoor,Natural,70-79,Pass,WR,WR,Knee,1
+Dome,Synthetic,60-69,Pass,CB,DB,Knee,2
+Dome,Synthetic,60-69,Pass,CB,DB,Ankle,2
+Indoor,Synthetic,70-79,Kickoff Not Returned,DB,DB,Knee,2
+Indoor,Synthetic,,Rush,LB,LB,Ankle,1
+Outdoor,Synthetic,40-49,Punt Returned,CB,DB,Ankle,2
