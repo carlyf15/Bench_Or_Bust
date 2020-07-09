@@ -1,6 +1,6 @@
 # Bench or Bust? #
 ## Making more accurate decisions about player injuries ##
-![Tackle](tackle)
+![Tackle](tackle.png)
 
 ### Introduction ###
 
