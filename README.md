@@ -46,7 +46,9 @@ Our model is able to predict 10% better than random guessing how long the player
 
 ### Live Demonstration ###
 
-Navigate to this notebook to input your own information for you fantasy prediction.
+Navigate to this notebook to input your own information for you fantasy prediction:
+
+https://github.com/carlyf15/Module_3_Project/blob/master/Prediction.ipynb
 
 ### Futher Recommendations ###
 
