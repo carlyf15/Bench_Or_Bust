@@ -42,7 +42,7 @@ The following features are the highest predictors of days missed.
 2. Position Group (Linebacker)
 3. Field Type (Natural)
 
-Our model is able to predict 10% better than random guessing how long the player will missed based on these five factors.
+Our model is able to predict 21% better than random guessing how long the player will missed based on these five factors.
 
 ### Live Demonstration ###
 
